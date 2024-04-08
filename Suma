@@ -4,3 +4,5 @@ public class Suma  {
    int b = 3;
    int w = a + b;
      System.out.println("Wynik:" + w);
+  }
+}
